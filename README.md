@@ -1,4 +1,4 @@
-# algoritma-C5.0
+# algoritma-C5.0 - Cross Validation
 
 ### Hasil
 
